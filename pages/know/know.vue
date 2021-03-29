@@ -1,6 +1,6 @@
 <template>
 	<view>
-		知识普及
+		ygsb
 	</view>
 </template>
 
