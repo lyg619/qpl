@@ -1,0 +1,50 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "\"清平乐\"智慧养老服务适老化平台"
+		}
+	}    ,{
+            "path" : "pages/know/know",
+            "style" : {
+              "navigationBarTitleText": "知识普及"
+            }
+        }
+        ,{
+            "path" : "pages/activ/activ",
+            "style" : {
+               "navigationBarTitleText": "活动出行"
+            }
+        }
+        ,{
+            "path" : "pages/my/my",
+            "style" : {
+               "navigationBarTitleText": "个人中心"
+            }
+        }
+        ,{
+            "path" : "pages/hos/hos",
+            "style" : {
+               "navigationBarTitleText": "居家就医"
+            }
+        }
+        ,{
+            "path" : "pages/vega/vega",
+            "style" : {
+               "navigationBarTitleText": "日常饮食"
+            }
+        }
+        ,{
+            "path" : "pages/mus/mus",
+            "style" : {
+               "navigationBarTitleText": "视频音乐"
+            }
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
