@@ -1,0 +1,111 @@
+
+page {
+  background-color: #F8F8FF;
+}
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.container .top {
+  background-color: #78c1fe;
+  width: 680rpx;
+  height: 270rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-radius: 15px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.container .top .to {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 50rpx;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.container .top .to text {
+  margin-left: 20px;
+}
+.container .top .bo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 50rpx;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+.content {
+  width: 680rpx;
+  height: 1050rpx;
+  margin-top: 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.content view {
+  width: 330rpx;
+  height: 330rpx;
+  border-radius: 15px;
+  font-size: 40rpx;
+  text-align: center;
+  font-weight: bold;
+  color: #FFFFFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content view image {
+  display: block;
+  width: 70px;
+  height: 70px;
+}
+.content .c1 {
+  background-color: #ff7f38;
+}
+.content .c2 {
+  background-color: #00a8f3;
+}
+.content .c3 {
+  background-color: #edc15a;
+}
+.content .c4 {
+  background-color: #5dbe8a;
+}
+.content .c5 {
+  background-color: #f1939c;
+}
+.content .c6 {
+  background-color: #9768af;
+}
+
